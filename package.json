@@ -1,0 +1,40 @@
+{
+  "name": "movierecommedations",
+  "version": "0.0.1",
+  "description": "gives movie recommendations",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 1337 ./",
+    "watch": "webpack --config ./webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immutabl3/movierecommedations.git"
+  },
+  "author": "Joey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/immutabl3/movierecommedations/issues"
+  },
+  "homepage": "https://github.com/immutabl3/movierecommedations#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "jquery-validation": "^1.17.0",
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.56",
+    "http-server": "^0.11.1",
+    "css-loader": "^1.0.0",
+    "babel-loader": "^8.0.0-beta",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "node-sass": "^4.9.2",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.22.1",
+    "webpack": "^4.1.1",
+    "webpack-cli": "^3.1.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0-rc.1",
+    "@babel/preset-react": "^7.0.0-beta.56"
+  }
+}

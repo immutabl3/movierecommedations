@@ -1,6 +1,5 @@
-@charset "utf-8";
 /* CSS Document */
-#wrapper {
+.wrapper {
 	width: 100%;
 	max-width: 960px;
 	margin: 0 auto;
@@ -8,12 +7,14 @@
 	background-color: #fff;
 	box-shadow: 0px 0px 15px #fff;
 }
-header {
+
+.header {
 	width: 100%;
 	height: 149px;
-	background-image: url(../images/clipboard.png);
+	background-image: url('../images/clipboard.png');
 	text-align: center;
 }
+
 h1 {
 	text-align: center;
 	background-color: rgba(255,255,255,0.75);
@@ -22,7 +23,8 @@ h1 {
 	margin-left: 33.1%;
 	font-size: 225%;
 }
-nav {
+
+.main-nav {
 	width: 100%;
 	max-width: 960px;
 	text-align: center;
@@ -33,21 +35,21 @@ nav {
 	font-size: 150%;
 	white-space: nowrap;
 }
-nav ul {
-	list-style-type: none;
-	
-}
-nav ul li {
-	display: inline-block;
-	margin: 0% 1.5%;
-}
-nav ul li a {
-	text-decoration: none;
-	color: #fff;
-}
-nav ul li a:hover {
-	color: #426EE5;
-}
+	.main-nav-list {
+		list-style-type: none;	
+	}
+		.main-nav-item {
+			display: inline-block;
+			margin: 0% 1.5%;
+		}
+			.main-nav-link {
+				text-decoration: none;
+				color: #fff;
+			}
+			.main-nav-link:hover {
+				color: #426EE5;
+			}
+
 main {
 	width: 100%;
 	background-color: #fff;

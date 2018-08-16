@@ -1,0 +1,121 @@
+[
+	{
+		"title": "Mad Max Fury Road", 
+		"genre": "action",
+		"year": 2015,
+		"minutes": 120,
+		"boxOffice": 153629485
+	},
+	{
+		"title": "The Hateful Eight", 
+		"genre": "western",
+		"year": 2015,
+		"minutes": 187,
+		"boxOffice": 54116191
+	},
+	{
+		"title": "Paul", 
+		"genre": "comedy",
+		"year": 2011,
+		"minutes": 104,
+		"boxOffice": 37371385
+	},
+	{
+		"title": "Seven", 
+		"genre": "crime",
+		"year": 1995,
+		"minutes": 127,
+		"boxOffice": 100125340
+	},
+	{
+		"title": "The Shining", 
+		"genre": "horror",
+		"year": 1980,
+		"minutes": 146,
+		"boxOffice": 44017374
+	},
+	{
+		"title": "Mean Streets", 
+		"genre": "drama",
+		"year": 1973,
+		"minutes": 112,
+		"boxOffice": 3100000
+	},
+	{
+		"title": "Titanic", 
+		"genre": "drama",
+		"year": 1997,
+		"minutes": 194,
+		"boxOffice": 658672302
+	},
+	{
+		"title": "The Waterboy", 
+		"genre": "comedy",
+		"year": 1998,
+		"minutes": 90,
+		"boxOffice": 161487252
+	},
+	{
+		"title": "War of the Worlds", 
+		"genre": "sci-fi",
+		"year": 2005,
+		"minutes": 116,
+		"boxOffice": 234277056
+	},
+	{
+		"title": "Once Upon a Time in the West", 
+		"genre": "western",
+		"year": 1968,
+		"minutes": 175,
+		"boxOffice": 5321508
+	},
+	{
+		"title": "Lord of the Rings: The Two Towers", 
+		"genre": "fantasy",
+		"year": 2002,
+		"minutes": 179,
+		"boxOffice": 340478898
+	},
+	{
+		"title": "The Thing", 
+		"genre": "horror",
+		"year": 1982,
+		"minutes": 109,
+		"boxOffice": 13782838
+	},
+	{
+		"title": "Indiana Jones and The Temple of Doom", 
+		"genre": "adventure",
+		"year": 1984,
+		"minutes": 118,
+		"boxOffice": 179870271
+	},
+	{
+		"title": "16 Blocks", 
+		"genre": "action",
+		"year": 2006,
+		"minutes": 102,
+		"boxOffice": 36883539
+	},
+	{
+		"title": "Predestination", 
+		"genre": "thriller",
+		"year": 2014,
+		"minutes": 97,
+		"boxOffice": 4300000
+	},
+	{
+		"title": "Zodiac", 
+		"genre": "thriller",
+		"year": 2007,
+		"minutes": 157,
+		"boxOffice": 33048353
+	},
+	{
+		"title": "The Great Escape", 
+		"genre": "action",
+		"year": 1963,
+		"minutes": 172,
+		"boxOffice": 11744471
+	}
+]
