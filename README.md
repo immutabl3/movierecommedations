@@ -1,1 +1,2 @@
 # movierecommedations
+This site will give you a movie recommendation based on parameters that you give. Enter in a genre, decade the movie was made in and length then it will output a film that meets the parameters.
