@@ -4,118 +4,137 @@
 		"genre": "action",
 		"year": 2015,
 		"minutes": 120,
-		"boxOffice": 153629485
+		"boxOffice": 153629485,
+		"comments": [
+			"I <3 mad max fuuuuuuuuuuurrry!"
+		]
 	},
 	{
 		"title": "The Hateful Eight", 
 		"genre": "western",
 		"year": 2015,
 		"minutes": 187,
-		"boxOffice": 54116191
+		"boxOffice": 54116191,
+		"comments": []
 	},
 	{
 		"title": "Paul", 
 		"genre": "comedy",
 		"year": 2011,
 		"minutes": 104,
-		"boxOffice": 37371385
+		"boxOffice": 37371385,
+		"comments": []
 	},
 	{
 		"title": "Seven", 
 		"genre": "crime",
 		"year": 1995,
 		"minutes": 127,
-		"boxOffice": 100125340
+		"boxOffice": 100125340,
+		"comments": []
 	},
 	{
 		"title": "The Shining", 
 		"genre": "horror",
 		"year": 1980,
 		"minutes": 146,
-		"boxOffice": 44017374
+		"boxOffice": 44017374,
+		"comments": []
 	},
 	{
 		"title": "Mean Streets", 
 		"genre": "drama",
 		"year": 1973,
 		"minutes": 112,
-		"boxOffice": 3100000
+		"boxOffice": 3100000,
+		"comments": []
 	},
 	{
 		"title": "Titanic", 
 		"genre": "drama",
 		"year": 1997,
 		"minutes": 194,
-		"boxOffice": 658672302
+		"boxOffice": 658672302,
+		"comments": []
 	},
 	{
 		"title": "The Waterboy", 
 		"genre": "comedy",
 		"year": 1998,
 		"minutes": 90,
-		"boxOffice": 161487252
+		"boxOffice": 161487252,
+		"comments": []
 	},
 	{
 		"title": "War of the Worlds", 
 		"genre": "sci-fi",
 		"year": 2005,
 		"minutes": 116,
-		"boxOffice": 234277056
+		"boxOffice": 234277056,
+		"comments": []
 	},
 	{
 		"title": "Once Upon a Time in the West", 
 		"genre": "western",
 		"year": 1968,
 		"minutes": 175,
-		"boxOffice": 5321508
+		"boxOffice": 5321508,
+		"comments": []
 	},
 	{
 		"title": "Lord of the Rings: The Two Towers", 
 		"genre": "fantasy",
 		"year": 2002,
 		"minutes": 179,
-		"boxOffice": 340478898
+		"boxOffice": 340478898,
+		"comments": []
 	},
 	{
 		"title": "The Thing", 
 		"genre": "horror",
 		"year": 1982,
 		"minutes": 109,
-		"boxOffice": 13782838
+		"boxOffice": 13782838,
+		"comments": []
 	},
 	{
 		"title": "Indiana Jones and The Temple of Doom", 
 		"genre": "adventure",
 		"year": 1984,
 		"minutes": 118,
-		"boxOffice": 179870271
+		"boxOffice": 179870271,
+		"comments": []
 	},
 	{
 		"title": "16 Blocks", 
 		"genre": "action",
 		"year": 2006,
 		"minutes": 102,
-		"boxOffice": 36883539
+		"boxOffice": 36883539,
+		"comments": []
 	},
 	{
 		"title": "Predestination", 
 		"genre": "thriller",
 		"year": 2014,
 		"minutes": 97,
-		"boxOffice": 4300000
+		"boxOffice": 4300000,
+		"comments": []
 	},
 	{
 		"title": "Zodiac", 
 		"genre": "thriller",
 		"year": 2007,
 		"minutes": 157,
-		"boxOffice": 33048353
+		"boxOffice": 33048353,
+		"comments": []
 	},
 	{
 		"title": "The Great Escape", 
 		"genre": "action",
 		"year": 1963,
 		"minutes": 172,
-		"boxOffice": 11744471
+		"boxOffice": 11744471,
+		"comments": []
 	}
 ]
